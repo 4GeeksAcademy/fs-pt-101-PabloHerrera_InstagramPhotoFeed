@@ -8,5 +8,5 @@
     height: 30vw !important;
 }
 .navbar-nav .dropdown-menu {
-    position: static;
+    position: absolute;
 }
