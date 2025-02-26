@@ -1,0 +1,9 @@
+.nav .nav-link.active {
+    color: blue;
+}
+.nav .nav-link {
+    color: gray;
+}
+.grid-image{
+    height: 30vw !important;
+}
